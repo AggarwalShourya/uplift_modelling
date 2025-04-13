@@ -1,7 +1,10 @@
 # Synapse 2k25 🚀
 
 # Clone the repository
+```bash
 git clone https://github.com/yourusername/conversion-uplift-modeling.git
+```
+
 
 # Run the notebook
 jupyter notebook model_pipeline.ipynb
@@ -42,3 +45,5 @@ SHAP feature analysis through Logistic Regression, suggesting **f4** as the most
 **Uplift curve** 📊
 ![Screenshot 2025-04-13 225215](https://github.com/user-attachments/assets/e6623cb3-e72f-4631-924b-5c01749ad46f)
 
+By: Shourya Aggarwal
+Refer to the report in Conversion attribution.pdf
