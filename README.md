@@ -2,7 +2,7 @@
 
 # Clone the repository
 ```bash
-git clone https://github.com/yourusername/conversion-uplift-modeling.git
+git clone (https://github.com/AggarwalShourya/uplift_modelling.git)
 ```
 
 
